@@ -1,0 +1,7 @@
+{
+  "session_id": "fixture-ptu-2",
+  "cwd": "SAMPLE_VAULT",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "Edit",
+  "tool_input": { "path": "SAMPLE_VAULT/projects/exports-api/notes.md" }
+}

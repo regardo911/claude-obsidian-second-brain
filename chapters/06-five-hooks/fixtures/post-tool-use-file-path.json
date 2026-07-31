@@ -1,0 +1,7 @@
+{
+  "session_id": "fixture-ptu-1",
+  "cwd": "SAMPLE_VAULT",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "Write",
+  "tool_input": { "file_path": "SAMPLE_VAULT/projects/exports-api/decisions.md" }
+}

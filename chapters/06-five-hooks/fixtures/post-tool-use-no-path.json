@@ -1,0 +1,7 @@
+{
+  "session_id": "fixture-ptu-3",
+  "cwd": "SAMPLE_VAULT",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "Edit",
+  "tool_input": {}
+}

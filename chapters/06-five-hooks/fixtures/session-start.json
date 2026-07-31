@@ -1,0 +1,8 @@
+{
+  "session_id": "fixture-session-start",
+  "transcript_path": "/tmp/does-not-need-to-exist.jsonl",
+  "cwd": "SAMPLE_VAULT",
+  "hook_event_name": "SessionStart",
+  "source": "startup",
+  "model": "claude-sonnet-4-6"
+}
